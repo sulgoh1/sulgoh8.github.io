@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "assignment1.html",
+    "href": "assignment1.html",
+    "title": "Assignment#1",
+    "section": "",
+    "text": "Assignment#1\n1.\n\nAnscombe Data\n\nAnscombe’s Plots\n\nExamples of Generative Art\n\n\nManfred Mohr. P-026-l, 1970, Plotter drawing on parchment paper, DAM Projects, Berlin.\n\nTyler Hobbs, QQL: Analog 12 (QQL #230), 2023. Courtesy of the artist and Pace Gallery\n\nChange different colors of a tree\n\n\nChocolate Color\n\nOrchid Color\n\nPalegreen Color"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Su Goh",
+    "section": "",
+    "text": "This is a Su Goh website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nplot(mtcars, cex=.5, pch=16, col='firebrick')"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a graduate student at UT Dallas using R\n\nplot(iris)"
+  }
+]
